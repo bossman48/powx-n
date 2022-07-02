@@ -1,0 +1,2 @@
+# powx-n
+Leetcode
